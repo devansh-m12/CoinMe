@@ -8,8 +8,8 @@ To get a local copy up and running, follow these steps:
 
 ### Prerequisites
 
-- Node.js
 - npm
+- React
 
 ### Installation
 
@@ -27,7 +27,7 @@ To get a local copy up and running, follow these steps:
 Start the development server:
 
 ```
-npm start
+npm run preview
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
