@@ -57,3 +57,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [LinkedIn](https://www.linkedin.com/in/devansh-m12/)
 
 [Project Link](https://github.com/devansh-m12/CoinMe)
+
+
+# Home Page
+![image](https://github.com/devansh-m12/CoinMe/assets/86195162/c8d993fc-08d8-46ff-a4d0-bee00e50ac02)
+
+# Search Query
+![image](https://github.com/devansh-m12/CoinMe/assets/86195162/4cc4a51b-e526-4879-bdb5-9730e2c90f5e)
+
+# Individual Coin Details
+![image](https://github.com/devansh-m12/CoinMe/assets/86195162/c2cc5b79-6f8e-4346-8146-fde99569b24c)
+
+
+
