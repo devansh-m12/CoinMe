@@ -15,7 +15,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repo
    ```
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/devansh-m12/CoinMe
    ```
 2. Install NPM packages
    ```
