@@ -54,4 +54,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/your_username_/Project-Name](https://github.com/your_username_/Project-Name)
+[LinkedIn](https://www.linkedin.com/in/devansh-m12/)
+
+[Project Link](https://github.com/devansh-m12/CoinMe)
